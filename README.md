@@ -1,4 +1,4 @@
-# Spell Checker Application
+# Spell Checker
 
 This repository contains a Java application that implements a spell-checker. The application stores a lexicon of words in a set and includes a method, `spellChecker(a)`, to perform a spell check on a given string with respect to the set of words.
 
